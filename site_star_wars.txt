@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Star Wars Universe</title>
+  <style>
+    /* Estilos gerais */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      color: white;
+    }
+    
+    /* Cabeçalho */
+    header {
+      background-color: #333;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    nav ul li {
+      display: inline;
+      margin-right: 20px;
+    }
+    
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+    
+    /* Conteúdo principal */
+    main {
+      padding: 20px;
+    }
+    
+    section {
+      margin-bottom: 40px;
+    }
+    
+    h2 {
+      color: #ff0000; /* Vermelho */
+    }
+    
+    /* Cards */
+    .card {
+      background-color: #333;
+      border: 2px solid #0000ff; /* Azul */
+      padding: 20px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+    }
+    
+    .card img {
+      max-width: 200px;
+      margin-right: 20px;
+    }
+    
+    /* Filmes */
+    .movie {
+      border-color: #0000ff; /* Azul */
+    }
+    
+    /* Séries */
+    .series {
+      border-color: #00ffff; /* Azul claro */
+    }
+    
+    /* Animações */
+    .animation {
+      border-color: #ff00ff; /* Magenta */
+    }
+    
+    /* HQs */
+    .comic {
+      border-color: #ffff00; /* Amarelo */
+    }
+    
+    /* Rodapé */
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Star Wars Universe</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Filmes</a></li>
+        <li><a href="#">Séries</a></li>
+        <li><a href="#">Animações</a></li>
+        <li><a href="#">HQs</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Filmes</h2>
+      <div class="card movie">
+        <img src="imagem-filme.jpg" alt="Imagem do Filme">
+        <div>
+          <h3>Episódio IV - Uma Nova Esperança</h3>
+          <p>Descrição do filme...</p>
+        </div>
+      </div>
+      <!-- Adicione mais cards de filmes aqui -->
+    </section>
+    
+    <section>
+      <h2>Séries</h2>
+      <div class="card series">
+        <img src="imagem-serie.jpg" alt="Imagem da Série">
+        <div>
+          <h3>The Mandalorian</h3>
+          <p>Descrição da série...</p>
+        </div>
+      </div>
+      <!-- Adicione mais cards de séries aqui -->
+    </section>
+    
+    <section>
+      <h2>Animações</h2>
+      <div class="card animation">
+        <img src="imagem-animacao.jpg" alt="Imagem da Animação">
+        <div>
+          <h3>Star Wars: The Clone Wars</h3>
+          <p>Descrição da animação...</p>
+        </div>
+      </div>
+      <!-- Adicione mais cards de animações aqui -->
+    </section>
+    
+    <section>
+      <h2>HQs</h2>
+      <div class="card comic">
+        <img src="imagem-hq.jpg" alt="Imagem da HQ">
+        <div>
+          <h3>Star Wars: Darth Vader</h3>
+          <p>Descrição da HQ...</p>
+        </div>
+      </div>
+      <!-- Adicione mais cards de HQs aqui -->
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Star Wars Universe. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
