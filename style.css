@@ -1,3 +1,10 @@
+:root {
+    --cor1: #ff005b;
+    --cor2: #c1c0ae;
+    --cor3: #5cacc4;
+
+}
+
 body {
     font-family: Verdana, Geneva, sans-serif;
     margin: 0;
@@ -19,6 +26,7 @@ nav ul {
 
 nav ul li {
     display: inline;
+    align-items: end;
     margin-right: 20px;
 }
 
