@@ -14,48 +14,71 @@ body {
 }
 
 header {
+    background-color: greenyellow;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    background-color: #050706;
-    height: 100px;
-
-    text-align: center;
+    justify-content: ;
+    height: 300px;
+    /*background-color: #050706;*/
 }
 
+.logo {
+    width: 30%;
+}
 .logo img {
-    width: 470px;
-    height: 370px;
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    padding-left: -30px;
 }
 
 nav {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-right: 10px;
     background-color: #050706;
-    width: 60%;
+    width: 20%%;
 
 }
 
 nav ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type: none;    
 }
 
 nav ul li {
-    display: inline-block;
-    margin-right: 20px;
+    align-items: end;
+    
 }
 
 nav ul li a {
-    align-items: end;
+    display: block;
     text-decoration: none;
-    margin: 20px;
-    align-items: end;
     color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    padding: 10px;
 }
 
 .container {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     text-align: center;
     background-color: #050706;
+    width: 60%;
+    line-height: 3px;
+}
+
+.container h1 {
+    font-size: 5em;
+}
+
+.container h4 {
+    font-size: 1.5em;
 }
