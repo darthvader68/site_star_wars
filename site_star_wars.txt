@@ -1,3 +1,18 @@
+Trilogia Original
+Uma Nova Esperança (1977) – Episódio IV
+O Império Contra-Ataca (1980) – Episódio V
+O Retorno de Jedi (1983) – Episódio VI
+
+Trilogia Prequel
+A Ameaça Fantasma (1999) – Episódio I
+Ataque dos Clones (2002) – Episódio II
+A Vingança dos Sith (2005) – Episódio III
+
+Trilogia Sequel
+O Despertar da Força (2015) – Episódio VII
+Os Últimos Jedi (2017) – Episódio VIII
+A Ascensão Skywalker (2019) – Episódio IX
+
 <!DOCTYPE html>
 <html>
 <head>
