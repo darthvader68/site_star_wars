@@ -2,7 +2,6 @@
     --cor1: #ff005b;
     --cor2: #c1c0ae;
     --cor3: #5cacc4;
-
 }
 
 body {
@@ -14,7 +13,6 @@ body {
 }
 
 header {
-    background-color: greenyellow;
     display: flex;
     flex-direction: row;
     justify-content: ;
@@ -38,8 +36,7 @@ nav {
     align-items: end;
     padding-right: 10px;
     background-color: #050706;
-    width: 20%%;
-
+    width: 20%;
 }
 
 nav ul {
@@ -55,14 +52,15 @@ nav ul li a {
     display: block;
     text-decoration: none;
     color: white;
-    padding-top: 20px;
-    padding-right: 20px;
+    padding: 20px;
+    /*padding-top: 20px;
+    padding-right: 20px;*/
 }
 
 a:hover {
     background-color: white;
     color: black;
-    padding: 10px;
+    padding: 20px;
 }
 
 .container {
@@ -81,4 +79,47 @@ a:hover {
 
 .container h4 {
     font-size: 1.5em;
+}
+
+.card {
+    background-image: url('img/sky_night.jpeg');
+    background-repeat: no-repeat;
+    color: white;
+    border: 2px solid #a1a1a1;
+    margin-top: 25px;
+    width: 338px;
+    height: 520px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+section h2 {
+    background-color: var(--cor2);
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+.card img {
+    width: 338px;
+    height: 264px;
+    border-radius: 25px 25px 0 0;
+}
+
+.card p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.card_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: var(--cor2);
+    padding: 20px;
+    text-align: center;
+    color: black;
 }
