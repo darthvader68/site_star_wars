@@ -81,6 +81,16 @@ a:hover {
     font-size: 1.5em;
 }
 
+section h2 {
+    background-color: var(--cor2);
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+section h3 {
+    margin-left: 50px;
+}
 .card {
     background-image: url('img/sky_night.jpeg');
     background-repeat: no-repeat;
@@ -93,12 +103,6 @@ a:hover {
     text-align: center;
 }
 
-section h2 {
-    background-color: var(--cor2);
-    padding: 20px;
-    text-align: center;
-    color: black;
-}
 
 .card img {
     width: 338px;
