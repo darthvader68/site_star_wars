@@ -1,20 +1,23 @@
-Original Trilogy:
-Star Wars Episode IV: A New Hope (1977)
-Star Wars Episode V: The Empire Strikes Back (1980)
-Star Wars Episode VI: Return of the Jedi (1983)
 
-Prequel Trilogy:
-Star Wars Episode I: The Phantom Menace (1999)
-Star Wars Episode II: Attack of the Clones (2002)
-Star Wars Episode III: Revenge of the Sith (2005)
+A ordem ideal para assistir todos os filmes de Star Wars é a seguinte:
+Trilogia Original:
+Star Wars Episódio IV: Uma Nova Esperança (1977)
+Star Wars Episódio V: O Império Contra-Ataca (1980)
+Star Wars Episódio VI: O Retorno de Jedi (1983)
 
-Sequel Trilogy:
-Star Wars Episode VII: The Force Awakens (2015)
-Star Wars Episode VIII: The Last Jedi (2017)
-Star Wars Episode IX: The Rise of Skywalker (2019)
-Standalone Films:
-Rogue One: A Star Wars Story (2016)
-Solo: A Star Wars Story (2018)
+Trilogia Prequela:
+Star Wars Episódio I: A Ameaça Fantasma (1999)
+Star Wars Episódio II: Ataque dos Clones (2002)
+Star Wars Episódio III: A Vingança dos Sith (2005)
+
+Trilogia Sequela:
+Star Wars Episódio VII: O Despertar da Força (2015)
+Star Wars Episódio VIII: Os Últimos Jedi (2017)
+Star Wars Episódio IX: A Ascensão Skywalker (2019)
+
+Filmes Spin-off:
+Rogue One: Uma História Star Wars (2016)
+Han Solo: Uma História Star Wars (2018)
 
 <!DOCTYPE html>
 <html>
