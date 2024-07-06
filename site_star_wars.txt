@@ -19,6 +19,31 @@ Filmes Spin-off:
 Rogue One: Uma História Star Wars (2016)
 Han Solo: Uma História Star Wars (2018)
 
+series:
+Trilogia Prequela
+Star Wars: The Clone Wars (2008-2020)
+Star Wars: The Bad Batch (2021-)
+Trilogia Original
+Star Wars: Rebels (2014-2018)
+Trilogia Sequela
+The Mandalorian (2019-)
+The Book of Boba Fett (2021-2022)
+Andor (2022-)
+Ahsoka (em desenvolvimento)
+Outras Séries
+Star Wars: Visions (2021)
+Star Wars: Tales of the Jedi (2022)
+Star Wars: Young Jedi Adventures (em desenvolvimento)
+Star Wars: The Acolyte (em desenvolvimento)
+
+Algumas séries importantes incluem:
+The Clone Wars: Expande os eventos entre os Episódios II e III, focando em Anakin, Obi-Wan e Ahsoka.
+Rebels: Segue um grupo de rebeldes durante os anos finais do Império, conectando a Trilogia Prequela e Original.
+The Mandalorian: Ambientada após os eventos do Episódio VI, acompanha as aventuras de um caçador de recompensas mandaloriano.
+Andor: Prequela de Rogue One, focada no personagem Cassian Andor.
+asoka
+
+
 <!DOCTYPE html>
 <html>
 <head>
