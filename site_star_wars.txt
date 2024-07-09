@@ -36,12 +36,33 @@ Star Wars: Tales of the Jedi (2022)
 Star Wars: Young Jedi Adventures (em desenvolvimento)
 Star Wars: The Acolyte (em desenvolvimento)
 
-Algumas séries importantes incluem:
-The Clone Wars: Expande os eventos entre os Episódios II e III, focando em Anakin, Obi-Wan e Ahsoka.
-Rebels: Segue um grupo de rebeldes durante os anos finais do Império, conectando a Trilogia Prequela e Original.
-The Mandalorian: Ambientada após os eventos do Episódio VI, acompanha as aventuras de um caçador de recompensas mandaloriano.
-Andor: Prequela de Rogue One, focada no personagem Cassian Andor.
-asoka
+quadrinhos:
+Era da Alta República (100-82 anos antes de Uma Nova Esperança)
+Star Wars: The High Republic Adventures (2021-presente)
+Star Wars: The High Republic (2021-presente)
+Star Wars: The High Republic - Trail of Shadows (2021)
+Star Wars: The High Republic - The Edge of Balance (2021-presente)
+Star Wars: The High Republic - Tempest Runner (2021)
+Star Wars: The High Republic - Out of the Shadows (2022)
+
+Era da Rebelião (0-5 anos após Uma Nova Esperança)
+Star Wars: Darth Vader (2015-2016)
+Star Wars (2015-2019)
+Star Wars: Han Solo (2016)
+Star Wars: Poe Dameron (2016-2017)
+Star Wars: Doctor Aphra (2016-presente)
+Star Wars: Rogue One - Cassian & K-2SO Special (2016)
+Star Wars: Vader Down (2015)
+Star Wars: Lando (2015)
+Star Wars: Chewbacca (2015-2016)
+
+Era da Nova República (5-29 anos após Uma Nova Esperança)
+Star Wars: Age of Resistance (2019-2020)
+Star Wars: Age of Rebellion (2019)
+Star Wars: Age of Republic (2018-2019)
+Star Wars: The Rise of Kylo Ren (2019-2020)
+
+Os quadrinhos canônicos focam principalmente na Era da Rebelião, mostrando eventos entre os filmes da trilogia original. Eles exploram as histórias de personagens icônicos como Darth Vader, Luke Skywalker, Leia Organa e Han Solo. Recentemente, a Era da Alta República também foi introduzida, se passando 200 anos antes dos filmes da saga Skywalker.
 
 
 <!DOCTYPE html>
