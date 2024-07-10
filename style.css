@@ -25,8 +25,14 @@ header {
     right: 10px;
     bottom: 5px;
     border-radius: 20px;
-    padding: 10px;
-    
+    padding: 10px;    
+    box-sizing: border-box;
+    transition: transform 5s, border 1s;
+}
+
+#topo:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.674);
+    transform: translate(-10%, -10%);
 }
 
 .logo {
@@ -122,6 +128,7 @@ section h2 {
 section > h3 {
     margin-left: 50px;
     background-color: var(--cor4);
+    text-align: justify;
     padding: 20px;
     border-radius: 20px 0 0 20px;
 }
@@ -158,6 +165,17 @@ section > h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+.card_hqs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card_hqs .card {
+    height: 370px;
+
 }
 
 footer {
