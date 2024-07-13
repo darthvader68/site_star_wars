@@ -173,8 +173,8 @@ section > h3 {
 
 .card_hqs {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: space-around;
     background-color: black;
     border: 1px solid black;
 }
