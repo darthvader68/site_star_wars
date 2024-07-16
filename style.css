@@ -45,6 +45,24 @@ header {
     padding-left: -30px;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #050706;
+    width: 60%;
+    line-height: 3px;
+}
+
+.container h1 {
+    font-size: 5em;
+}
+
+.container h4 {
+    font-size: 1.5em;
+}
+
 .container p {
     padding: 20px;
 }
@@ -90,8 +108,9 @@ nav ul li a {
     text-decoration: none;
     color: white;
     padding: 20px;
-    /*padding-top: 20px;
-    padding-right: 20px;*/
+    border-radius: 20px 0 0 20px;
+    transition: 0.7s;
+    cursor: pointer;
 }
 
 a:hover {
@@ -100,23 +119,7 @@ a:hover {
     padding: 20px;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    text-align: center;
-    background-color: #050706;
-    width: 60%;
-    line-height: 3px;
-}
 
-.container h1 {
-    font-size: 5em;
-}
-
-.container h4 {
-    font-size: 1.5em;
-}
 
 section h2 {
     background-color: var(--cor2);
@@ -184,6 +187,7 @@ section > h3 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    align-items: center;
     border: 1px solid white;
     border-radius: 5px;
     width: 400px;
@@ -191,7 +195,8 @@ section > h3 {
 }
 
 .card_hqs .card_comic img {
-    width: 400px;
+    border-radius: 10px;
+    width: 370px;
     height: 300px;
     padding-top: 30px;
 }
@@ -207,3 +212,7 @@ footer {
     text-align: center;
     color: black;
 }
+
+/*Smartphone portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
