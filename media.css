@@ -5,7 +5,7 @@
         flex-direction: column;
         justify-content: space-between;
         background-color: #050706;
-        height: 300px;
+
     }
 
     .container {
@@ -14,63 +14,41 @@
         justify-content: space-around;
         text-align: center;
         background-color: #050706;
-        width: 30%;
+        width: 100vw;
+        height: 100%;
         line-height: 3px;
     }
-    /*
-    
-  
-    
+
     .container h1 {
-        font-size: 5em;
+        font-size: 2em;
     }
-    
+
     .container h4 {
-        font-size: 1.5em;
+        font-size: 1em;
     }
-    
+
     .container p {
+        display: block;
+        flex-direction: column;
         padding: 20px;
     }
-    
-    .span1:hover {
-        background-color: greenyellow;
-        color: black;
-        padding: 5px 100px;
-        border-radius: 20px 0 0 20px;
-        transition: 0.7s;
-        cursor: pointer;
-    }
-    
-    .span2:hover {
-        background-color: red;
-        color: black;
-        padding: 5px 100px;
-        border-radius:  0 20px 20px 0;
-        transition: 0.7s;
-        cursor: pointer;
-    }
-    
+
     nav {
         display: flex;
-        flex-direction: column;
-        align-items: end;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
         padding-right: 10px;
         background-color: #050706;
-        width: 20%;
-    }
-    
-    nav ul {
-        list-style-type: none;    
+        width: 100vw;
     }
     
     nav ul li {
-        align-items: end;
-        
+        align-items: center;        
     }
     
     nav ul li a {
-        display: block;
+        display: flex;
         text-decoration: none;
         color: white;
         padding: 20px;
@@ -78,17 +56,10 @@
         transition: 0.7s;
         cursor: pointer;
     }
-    
-    a:hover {
-        background-color: white;
-        color: black;
-        padding: 20px;
-    }*/
-
 }
 
 @media screen and (max-width: 760px) {
-    body > header {
+    body>header {
         display: block;
         flex-direction: column;
         justify-content: space-around;
@@ -103,19 +74,19 @@
         width: 100vw;
         line-height: 3px;
     }
-    
+
     .container h1 {
         font-size: 3em;
     }
-    
+
     .container h4 {
         font-size: .7em;
     }
-    
+
     .container p {
         padding: 20px;
     }
-    
+
     .span1:hover {
         background-color: greenyellow;
         color: black;
@@ -124,16 +95,16 @@
         transition: 0.7s;
         cursor: pointer;
     }
-    
+
     .span2:hover {
         background-color: red;
         color: black;
         padding: 5px 100px;
-        border-radius:  0 20px 20px 0;
+        border-radius: 0 20px 20px 0;
         transition: 0.7s;
         cursor: pointer;
     }
-    
+
     nav {
         display: flex;
         flex-direction: row;
@@ -142,19 +113,19 @@
         background-color: #050706;
         width: 100vw;
     }
-    
+
     nav ul {
-        list-style-type: none;    
+        list-style-type: none;
     }
-    
+
     nav ul li {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        
+
     }
-    
+
     nav ul li a {
         display: flex;
         text-decoration: none;
@@ -164,7 +135,7 @@
         transition: 0.7s;
         cursor: pointer;
     }
-    
+
     a:hover {
         background-color: white;
         color: black;
